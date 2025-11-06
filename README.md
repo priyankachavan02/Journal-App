@@ -1,5 +1,6 @@
 # Journal App
-
+**[Live Demo](https://drive.google.com/file/d/10ivx5pSFNtgoYdzwTUISs32fHsWTe-YQ/view?usp=drive_link)**
+---
 A personal journaling web application that allows users to securely record daily thoughts, moods, and reflections.  
 The app provides a minimal, distraction-free writing experience with secure login and responsive design, built using the MERN stack.
 
